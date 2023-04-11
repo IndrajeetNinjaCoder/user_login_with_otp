@@ -45,7 +45,7 @@ function App() {
         <Route path="/dashboard/documentation" element={<Documentation />} />
 
 
-        {/* <Route path='*' element={<Error />} /> */}
+        <Route path='*' element={<Error />} />
       </Routes>
     </>
   );
