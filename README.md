@@ -31,3 +31,10 @@
 
 # Icons
 ![icons](https://user-images.githubusercontent.com/110371845/231062898-b0b3db28-7b39-4ae3-8f74-b098bab2768f.png)
+
+# To run this project in your PC you need to add an .env file in the following directory
+![Screenshot 2023-04-11 105703](https://user-images.githubusercontent.com/110371845/231064787-73aafec5-b2cd-451d-a6a8-bcf8efb6f9bd.png)
+
+# .env file will contain
+![env file content](https://user-images.githubusercontent.com/110371845/231065580-b3079631-fb87-4c56-87a8-b825648099eb.png)
+
